@@ -6,6 +6,7 @@ import (
 	"github.com/google/uuid"
 )
 
+// comment
 type File struct {
 	ID   uuid.UUID
 	Name string
